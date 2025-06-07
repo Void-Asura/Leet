@@ -2,10 +2,12 @@ class Solution
 {
     public int[][] transpose(int[][] matrix) 
     {
-        int tra[][]=new int[matrix[0].length][matrix.length];
-        for(int i=0;i<matrix.length;i++)
+        int m=matrix[0].length;
+        int n=matrix.length;
+        int tra[][]=new int[m][n];
+        for(int i=0;i<n;i++)
         {
-            for(int j=0;j<matrix[0].length;j++)
+            for(int j=0;j<m;j++)
             {
                 tra[j][i]=matrix[i][j];
             }
