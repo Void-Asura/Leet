@@ -9,7 +9,13 @@ class Solution
             if(Character.isLetterOrDigit(s.charAt(i)))
             str+=s.charAt(i);
         }
-        StringBuffer sbr=new StringBuffer(str);
-        return str.equals(sbr.reverse().toString());
+        // StringBuffer sbr=new StringBuffer(str);
+        // return str.equals(sbr.reverse().toString());
+        String rev="";
+        for(int i=str.length()-1;i>=0;i--)
+        {
+            rev+=str.charAt(i);
+        }
+        return str.equals(rev);
     }
 }
