@@ -2,8 +2,10 @@ class Solution
 {
     public int matchPlayersAndTrainers(int[] players, int[] trainers) 
     {
-        quicksort(players,0,players.length-1);
-        quicksort(trainers,0,trainers.length-1);
+        //quicksort(players,0,players.length-1);
+        //quicksort(trainers,0,trainers.length-1);
+        Arrays.sort(players);
+        Arrays.sort(trainers);
 
         int i=0,count=0,j=0;
         while(i<players.length && j<trainers.length)
@@ -22,6 +24,7 @@ class Solution
         return count;
     }
 
+/*
     public static void quicksort(int arr[],int lowIndex , int highIndex)
     {
         if(lowIndex >= highIndex)
@@ -60,4 +63,5 @@ class Solution
         arr[index1]=arr[index2];
         arr[index2]=temp;
     }
+*/
 }
