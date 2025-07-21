@@ -31,28 +31,46 @@ class Solution
         // }
         // return str;
 
-        int c=1,i=0;
-        StringBuilder sbr=new StringBuilder(s);
-        while(i<sbr.length())
-        {
-            if(i>0 && sbr.charAt(i)==sbr.charAt(i-1))
-            {
-                if(c==2)
-                {
-                    sbr.deleteCharAt(i);
-                }
-                else
-                {
-                    c++;
-                    i++;
-                }
+        // int c=1,i=0;
+        // StringBuilder sbr=new StringBuilder(s);
+        // while(i<sbr.length())
+        // {
+        //     if(i>0 && sbr.charAt(i)==sbr.charAt(i-1))
+        //     {
+        //         if(c==2)
+        //         {
+        //             sbr.deleteCharAt(i);
+        //         }
+        //         else
+        //         {
+        //             c++;
+        //             i++;
+        //         }
+        //     }
+        //     else
+        //     {
+        //         c=1;
+        //         i++;
+        //     }
+        // }
+        // return sbr.toString();
+
+        int c = 1, i = 1;
+    StringBuilder sbr = new StringBuilder(s);
+    
+    while (i < sbr.length()) {
+        if (sbr.charAt(i) == sbr.charAt(i - 1)) {
+            c++;
+            if (c > 2) {
+                sbr.deleteCharAt(i); 
+                continue; 
             }
-            else
-            {
-                c=1;
-                i++;
-            }
+        } else {
+            c = 1; 
         }
-        return sbr.toString();
+        i++;
+    }
+    
+    return sbr.toString();
     }
 }
