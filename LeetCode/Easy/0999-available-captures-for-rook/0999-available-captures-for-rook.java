@@ -1,0 +1,70 @@
+class Solution 
+{
+    public int numRookCaptures(char[][] board) 
+    {
+        int m=0,nop=0;
+        for (int i=0;i<8;i++)
+        {
+            for(int j=0;j<8;j++)
+            {
+                if(board[i][j]=='R')
+                {
+                    m=i;
+                    while(m>0)
+                    {
+                        --m;
+                        if(board[m][j]=='B')
+                            break;
+                        else
+                        {
+                            if(board[m][j]=='p')
+                            {nop++;
+                            break;}
+                        }
+                    }
+                    m=i;
+                    while(m<7)
+                    {
+                        ++m;
+                        if(board[m][j]=='B')
+                            break;
+                        else
+                        {
+                            if(board[m][j]=='p')
+                            {nop++;
+                            break;}
+                        }
+                    }
+                    m=j;
+                    while(m>0)
+                    {
+                        --m;
+                        if(board[i][m]=='B')
+                        break;
+                        else
+                        {
+                            if(board[i][m]=='p')
+                            {nop++;
+                            break;}
+                        }
+                    }
+                    m=j;
+                    while(m<7)
+                    {
+                        ++m;
+                        if(board[i][m]=='B')
+                        break;
+                        else
+                        {
+                            if(board[i][m]=='p')
+                            {nop++;
+                            break;}
+                        }
+                    }
+                    break;
+                }
+            }
+        }
+        return nop;
+    }
+}
