@@ -34,6 +34,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2544-alternating-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
