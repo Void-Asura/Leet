@@ -45,4 +45,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
