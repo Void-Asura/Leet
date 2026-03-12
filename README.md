@@ -34,6 +34,7 @@ Author-Mahesh Sharma
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
@@ -49,4 +50,12 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
