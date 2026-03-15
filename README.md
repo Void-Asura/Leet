@@ -13,6 +13,7 @@ Author-Mahesh Sharma
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Author-Mahesh Sharma
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
