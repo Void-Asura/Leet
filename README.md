@@ -44,6 +44,7 @@ Author-Mahesh Sharma
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2651-calculate-delayed-arrival-time/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
@@ -77,4 +78,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
