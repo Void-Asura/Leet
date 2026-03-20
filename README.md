@@ -39,6 +39,7 @@ Author-Mahesh Sharma
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0415-add-strings](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
@@ -77,9 +78,14 @@ Author-Mahesh Sharma
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
