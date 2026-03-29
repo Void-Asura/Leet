@@ -14,6 +14,7 @@ Author-Mahesh Sharma
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
