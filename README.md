@@ -70,6 +70,7 @@ Author-Mahesh Sharma
 | [3099-harshad-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3099-harshad-number/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
@@ -103,6 +104,7 @@ Author-Mahesh Sharma
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
