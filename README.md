@@ -40,6 +40,7 @@ Author-Mahesh Sharma
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -65,6 +66,7 @@ Author-Mahesh Sharma
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2651-calculate-delayed-arrival-time/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
