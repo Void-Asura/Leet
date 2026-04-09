@@ -71,6 +71,7 @@ Author-Mahesh Sharma
 | [2544-alternating-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2651-calculate-delayed-arrival-time/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3099-harshad-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3099-harshad-number/) | Easy |
