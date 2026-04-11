@@ -58,6 +58,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0415-add-strings](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0670-maximum-swap](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
@@ -130,6 +131,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +152,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
