@@ -19,6 +19,7 @@ Author-Mahesh Sharma
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Author-Mahesh Sharma
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3560-find-minimum-log-transportation-cost/) | Easy |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
 ## Hash Table
