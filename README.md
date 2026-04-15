@@ -15,6 +15,7 @@ Author-Mahesh Sharma
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
@@ -42,6 +43,7 @@ Author-Mahesh Sharma
 | [1848-minimum-distance-to-the-target-element](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
