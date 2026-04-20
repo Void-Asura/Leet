@@ -44,6 +44,7 @@ Author-Mahesh Sharma
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -151,6 +152,7 @@ Author-Mahesh Sharma
 | [0670-maximum-swap](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0991-broken-calculator](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0991-broken-calculator/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 ## Prefix Sum
