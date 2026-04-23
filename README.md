@@ -97,6 +97,7 @@ Author-Mahesh Sharma
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
