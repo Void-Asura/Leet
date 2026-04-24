@@ -17,6 +17,7 @@ Author-Mahesh Sharma
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
@@ -166,6 +167,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
