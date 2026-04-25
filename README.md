@@ -73,6 +73,7 @@ Author-Mahesh Sharma
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
+| [0738-monotone-increasing-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0738-monotone-increasing-digits/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
 | [0991-broken-calculator](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0991-broken-calculator/) | Medium |
@@ -154,6 +155,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0670-maximum-swap](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
+| [0738-monotone-increasing-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0738-monotone-increasing-digits/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0991-broken-calculator](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0991-broken-calculator/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
