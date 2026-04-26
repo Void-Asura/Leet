@@ -77,6 +77,7 @@ Author-Mahesh Sharma
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
 | [0991-broken-calculator](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0991-broken-calculator/) | Medium |
+| [1017-convert-to-base-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1017-convert-to-base-2/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
