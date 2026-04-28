@@ -48,6 +48,7 @@ Author-Mahesh Sharma
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -63,6 +64,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Math
@@ -82,6 +84,7 @@ Author-Mahesh Sharma
 | [1017-convert-to-base-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1017-convert-to-base-2/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -137,6 +140,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
