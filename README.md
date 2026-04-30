@@ -55,6 +55,7 @@ Author-Mahesh Sharma
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -147,6 +148,7 @@ Author-Mahesh Sharma
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Dynamic Programming
