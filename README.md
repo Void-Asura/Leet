@@ -84,6 +84,7 @@ Author-Mahesh Sharma
 | [0670-maximum-swap](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0738-monotone-increasing-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0738-monotone-increasing-digits/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
+| [0788-rotated-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
 | [0991-broken-calculator](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0991-broken-calculator/) | Medium |
 | [1017-convert-to-base-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1017-convert-to-base-2/) | Medium |
@@ -159,6 +160,7 @@ Author-Mahesh Sharma
 | [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0396-rotate-function](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
