@@ -11,6 +11,7 @@ Author-Mahesh Sharma
 | [0415-add-strings](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -215,4 +216,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
