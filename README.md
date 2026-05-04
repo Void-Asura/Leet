@@ -42,6 +42,7 @@ Author-Mahesh Sharma
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0682-baseball-game](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
@@ -67,6 +68,7 @@ Author-Mahesh Sharma
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -75,6 +77,7 @@ Author-Mahesh Sharma
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
