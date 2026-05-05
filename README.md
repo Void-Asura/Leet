@@ -204,6 +204,7 @@ Author-Mahesh Sharma
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Binary Search
@@ -223,4 +224,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
