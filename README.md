@@ -63,6 +63,7 @@ Author-Mahesh Sharma
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2670-find-the-distinct-difference-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -173,6 +174,7 @@ Author-Mahesh Sharma
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0396-rotate-function](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
