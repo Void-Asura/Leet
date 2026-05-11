@@ -15,7 +15,6 @@ class Solution
             else
                 ls.add(n);
         }
-        //return Integer.parseInt(ls.toArray());
         int arr[]=new int[ls.size()];
         for(int i=0;i<ls.size();i++)
         {
