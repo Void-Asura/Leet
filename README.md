@@ -51,6 +51,7 @@ Author-Mahesh Sharma
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0682-baseball-game](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
+| [1306-jump-game-iii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -197,6 +198,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
+| [1306-jump-game-iii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
+| [1306-jump-game-iii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
