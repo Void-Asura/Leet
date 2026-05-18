@@ -16,6 +16,7 @@ Author-Mahesh Sharma
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -188,6 +189,7 @@ Author-Mahesh Sharma
 | [0343-integer-break](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0343-integer-break/) | Medium |
 | [0396-rotate-function](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -212,6 +214,7 @@ Author-Mahesh Sharma
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -258,4 +261,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
