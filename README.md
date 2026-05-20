@@ -72,6 +72,7 @@ Author-Mahesh Sharma
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2670-find-the-distinct-difference-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -145,6 +146,7 @@ Author-Mahesh Sharma
 | [2094-finding-3-digit-even-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2670-find-the-distinct-difference-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -158,6 +160,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
