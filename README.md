@@ -25,6 +25,7 @@ Author-Mahesh Sharma
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 ## Recursion
@@ -79,6 +80,7 @@ Author-Mahesh Sharma
 | [2784-check-if-array-is-good](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -150,6 +152,7 @@ Author-Mahesh Sharma
 | [2670-find-the-distinct-difference-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2670-find-the-distinct-difference-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
@@ -255,6 +258,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
