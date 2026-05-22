@@ -47,6 +47,7 @@ Author-Mahesh Sharma
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0396-rotate-function](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
@@ -250,6 +251,7 @@ Author-Mahesh Sharma
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
