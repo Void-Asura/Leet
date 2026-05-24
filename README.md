@@ -55,6 +55,7 @@ Author-Mahesh Sharma
 | [0682-baseball-game](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [1306-jump-game-iii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -145,6 +146,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
@@ -184,6 +186,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
@@ -245,6 +248,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1961-check-if-string-is-a-prefix-of-array/) | Easy |
@@ -255,6 +259,7 @@ Author-Mahesh Sharma
 | [0033-search-in-rotated-sorted-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Trie
