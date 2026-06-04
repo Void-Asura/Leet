@@ -149,6 +149,7 @@ Author-Mahesh Sharma
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
@@ -187,6 +188,7 @@ Author-Mahesh Sharma
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ Author-Mahesh Sharma
 | [0788-rotated-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
