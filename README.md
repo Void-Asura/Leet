@@ -56,6 +56,7 @@ Author-Mahesh Sharma
 | [0463-island-perimeter](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0682-baseball-game](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [0695-max-area-of-island](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [1306-jump-game-iii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -102,6 +103,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0463-island-perimeter](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1861-rotating-the-box](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -233,6 +235,7 @@ Author-Mahesh Sharma
 | [0279-perfect-squares](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0463-island-perimeter](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1306-jump-game-iii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -268,6 +271,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0365-water-and-jug-problem/) | Medium |
 | [0463-island-perimeter](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0695-max-area-of-island](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1306-jump-game-iii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -313,4 +317,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
