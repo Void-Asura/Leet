@@ -84,6 +84,7 @@ Author-Mahesh Sharma
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2670-find-the-distinct-difference-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
@@ -256,6 +257,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
