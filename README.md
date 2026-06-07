@@ -99,6 +99,7 @@ Author-Mahesh Sharma
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ Author-Mahesh Sharma
 | [2373-largest-local-values-in-a-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,4 +325,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
