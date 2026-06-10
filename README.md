@@ -79,6 +79,7 @@ Author-Mahesh Sharma
 | [2126-destroying-asteroids](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -215,6 +216,7 @@ Author-Mahesh Sharma
 | [2094-finding-3-digit-even-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
