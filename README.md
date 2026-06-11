@@ -217,6 +217,7 @@ Author-Mahesh Sharma
 | [2126-destroying-asteroids](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
@@ -275,6 +276,7 @@ Author-Mahesh Sharma
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
