@@ -56,6 +56,7 @@ Author-Mahesh Sharma
 | [0396-rotate-function](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0463-island-perimeter](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
@@ -128,6 +129,7 @@ Author-Mahesh Sharma
 | [0396-rotate-function](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0415-add-strings](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0670-maximum-swap](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0738-monotone-increasing-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0738-monotone-increasing-digits/) | Medium |
@@ -208,6 +210,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
