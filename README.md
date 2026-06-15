@@ -104,6 +104,7 @@ Author-Mahesh Sharma
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3697-compute-decimal-representation/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -160,6 +161,7 @@ Author-Mahesh Sharma
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
