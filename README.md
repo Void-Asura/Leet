@@ -31,6 +31,7 @@ Author-Mahesh Sharma
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Author-Mahesh Sharma
 | [2553-separate-the-digits-in-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Array
 | Problem Name | Difficulty |
