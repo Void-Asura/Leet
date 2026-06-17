@@ -33,6 +33,7 @@ Author-Mahesh Sharma
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Author-Mahesh Sharma
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Author-Mahesh Sharma
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
