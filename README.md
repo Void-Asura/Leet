@@ -33,6 +33,7 @@ Author-Mahesh Sharma
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3602-hexadecimal-and-hexatrigesimal-conversion/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
 ## Recursion
@@ -53,6 +54,7 @@ Author-Mahesh Sharma
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
 ## Array
@@ -316,6 +318,7 @@ Author-Mahesh Sharma
 | [2161-partition-array-according-to-given-pivot](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
