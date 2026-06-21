@@ -77,6 +77,7 @@ Author-Mahesh Sharma
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
@@ -232,6 +233,7 @@ Author-Mahesh Sharma
 | [0922-sort-array-by-parity-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2094-finding-3-digit-even-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
@@ -274,6 +276,7 @@ Author-Mahesh Sharma
 | [0738-monotone-increasing-digits](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0738-monotone-increasing-digits/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0991-broken-calculator](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0991-broken-calculator/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -370,4 +373,8 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3042-count-prefix-and-suffix-pairs-i/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
