@@ -12,6 +12,7 @@ Author-Mahesh Sharma
 | [0539-minimum-time-difference](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0539-minimum-time-difference/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -187,6 +188,7 @@ Author-Mahesh Sharma
 | ------- | ------- |
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -295,6 +297,7 @@ Author-Mahesh Sharma
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0869-reordered-power-of-2](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0869-reordered-power-of-2/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
