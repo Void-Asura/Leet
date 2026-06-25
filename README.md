@@ -19,6 +19,7 @@ Author-Mahesh Sharma
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1871-jump-game-vii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
@@ -158,6 +159,7 @@ Author-Mahesh Sharma
 | [1344-angle-between-hands-of-a-clock](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -282,6 +284,7 @@ Author-Mahesh Sharma
 | [0781-rabbits-in-forest](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0781-rabbits-in-forest/) | Medium |
 | [0991-broken-calculator](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/0991-broken-calculator/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
