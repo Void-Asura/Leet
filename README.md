@@ -170,6 +170,7 @@ Author-Mahesh Sharma
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2544-alternating-digit-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
+| [2591-distribute-money-to-maximum-children](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2651-calculate-delayed-arrival-time/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
@@ -291,6 +292,7 @@ Author-Mahesh Sharma
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
+| [2591-distribute-money-to-maximum-children](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2591-distribute-money-to-maximum-children/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2864-maximum-odd-binary-number/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Prefix Sum
