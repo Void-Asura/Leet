@@ -190,6 +190,7 @@ Author-Mahesh Sharma
 | [3783-mirror-distance-of-an-integer](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ Author-Mahesh Sharma
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
