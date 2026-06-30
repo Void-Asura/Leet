@@ -192,6 +192,7 @@ Author-Mahesh Sharma
 | [3870-count-commas-in-range](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
+| [3908-valid-digit-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3908-valid-digit-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
