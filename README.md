@@ -193,6 +193,7 @@ Author-Mahesh Sharma
 | [3894-traffic-signal-color](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3895-count-digit-appearances/) | Medium |
 | [3908-valid-digit-number](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3908-valid-digit-number/) | Easy |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/3945-digit-frequency-score/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -238,6 +239,7 @@ Author-Mahesh Sharma
 | [1492-the-kth-factor-of-n](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Void-Asura/Leet/tree/main/LeetCode/Medium/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
